@@ -1,6 +1,6 @@
 ﻿# File Watcher
 
-Based on .Net Core 3.1
+FileWatcher based on .Net Core 3.1 / 使用.NetCore实现的简单文件监视器，可以监控文件的创建、修改、删除操作
 
 
 ## Build
